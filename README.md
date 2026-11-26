@@ -75,3 +75,4 @@ Latihan konflik:
 ## Catatan keamanan
 Jangan menaruh password, token, atau private SSH key di repository atau laporan. Gunakan public key saja ketika mengatur SSH.
 - Fitur informasi tentang NusaStore.
+- Fitur informasi tentang NusaStore.
